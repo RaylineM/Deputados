@@ -1,16 +1,28 @@
 # deputados
+## Tecnologias Utilizadas
 
-A new Flutter project.
+- *Framework*: Flutter
+- *Linguagem de Programação*: Dart
 
-## Getting Started
+## Instalação e Execução
 
-This project is a starting point for a Flutter application.
+1. Clone o repositório do GitHub:
+    
+    git clone https://github.com/RaylineM/Deputados.git
+    
+2. Navegue até o diretório do projeto:
+    
+    cd Deputados
+    
+3. Instale as dependências:
+    
+    flutter pub get
+    
+4. Execute o aplicativo:
+    
+    flutter run
+    
 
-A few resources to get you started if this is your first Flutter project:
+Certifique-se de ter o Flutter instalado e configurado corretamente em seu ambiente de desenvolvimento antes de seguir as etapas acima.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
